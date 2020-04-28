@@ -1,21 +1,7 @@
 - date: 18. March 2020
   headline: "Axion Environment started by VR grant: <a href='http://www.okc.albanova.se/about-us/news/new-vr-research-environment-grant-will-focus-on-axions-1.478087'>link</a> "
 
-- date: 6. February 2020
-  headline: "A first paper from the TBG collaboration (Geneva, ICFO) is online, including data from Tjerk.  <a href='https://arxiv.org/abs/2002.02289'>See Lisi, Lu, Benschop, de Jong et al.</a>!"
-
-- date: 8. January 2020
-  headline: "Irene wins </i>discoverer of the year</i> by the faculty of Science! <a href='https://www.universiteitleiden.nl/science-talents-and-discoveries/c.j-kok-public-award/nominee-lion'>(Press release)</a>!"
-
-- date: 10. December 2019
-  headline: "<b>Koen defends his PhD with a cum laude (top 5%)!</b>"
-
-- date: 5. September 2019
-  headline: "The noise doubling paper is published in <a href='https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506'>Phys. Rev. B</a>!"
-
-- date: 25. August 2019
-  headline: "<b>Doohee got an assistant professor job at Yonsei University!</b>"
 
 - date: 25. July 2019
-  headline: "<b>The inhomogeneous superfluid paper is published in <a href='https://www.nature.com/articles/s41586-019-1408-8'>Nature</a>!</b><img src='/images/newspic/SFnews.png' class='img-responsive' style='max-width: 192px' />"
+  headline: "Example with <b>bold</b> <a href='https://www.nature.com/articles/s41586-019-1408-8'>links</a>, and images! <img src='/images/newspic/SFnews.png' class='img-responsive' style='max-width: 192px' />"
 
