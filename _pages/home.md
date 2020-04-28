@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "AxionDM - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "AxionDM at Stockholm University."
 sitemap: false
 permalink: /
 ---
