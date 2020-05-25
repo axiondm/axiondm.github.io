@@ -1,71 +1,76 @@
-<!DOCTYPE html>
-   <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
+---
+title: "AxionDM - Home"
+layout: homelay
+excerpt: "AxionDM at Stockholm University."
+sitemap: false
+permalink: /
+---
 
-             
-    <title>
-              AxionDM  -  Department of Physics
-          </title>
-</head>
+We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
 
-<body>
-  <div class="section main-article">
-      
-            
-      <!-- article text -->
-      <div class="content-block">
-        <div >
-                      <h1>AxionDM </h1>
-                  </div>
 
-        <div class="content-block-inner ">
-          <div class="clear-float"></div>
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+    </ol>
 
-          
-                      <div  class="pre">
-              <p>Detecting Axion Dark Matter In The Sky And In The Lab</p>
-            </div>
-          
-                                                    <div class="articleBody">
-                <p>The nature of the dark matter is one of the most profound unanswered questions in fundamental physics. The axion is a leading dark matter candidate that would additionally remove a major blemish on the Standard Model of particle physics -- the Strong CP problem which, without the axion, constitutes an inexplicable level of fine-tuning. The goal of this project is to seed and develop bold new ideas and technologies from material science that can revolutionise the search for the dark matter axion, and to use astronomical observations to search for complementary signals.</p>
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
 
-<div class="image-block image-default">
-<div class="image-block-image"><img alt="" class="article-image"   src="/polopoly_fs/1.493183!/image/image.jpg_gen/derivatives/article_505/image.jpg" /></div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
+        </div>       
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 7" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
-<p>This project, funded by a <a href="https://urldefense.proofpoint.com/v2/url?u=http-3A__www.okc.albanova.se_about-2Dus_news_new-2Dvr-2Dresearch-2Denvironment-2Dgrant-2Dwill-2Dfocus-2Don-2Daxions-2D1.478087&amp;d=DwMGAg&amp;c=l45AxH-kUV29SRQusp9vYR0n1GycN4_2jInuKy6zbqQ&amp;r=cMtb2o4z7jpmxXa2wYehZGfzYawh0sligSk6cKbUzcU&amp;m=hTEvSYdNlC4sFNmoV6rZcANt2flLpykaBEpWRez8wMU&amp;s=QlrhbVasDzJooNvB4O2bflpUv71yViajutKLE7NDFOQ&amp;e=">Research Environment Grant</a> (2020-2025) from the Swedish Research Council, leverages the convergence of expertise in axion physics, dark matter detection, material science and cosmology at Stockholm University.</p>
-
-              </div>
-            
-
-            <div class="clear-float"></div>
-            <!-- related articles -->
-             <!-- /article text -->
-
-                                        
-            <!-- articel info and tools -->
-            
-<!-- article files -->
-
-<!-- article info -->
-<div class="article-info">
-  <div class="clear-float"></div>
-  <div>
-
-    <p>
-      
-            
-              <b>Last updated:</b>
-        March 30, 2020<br />
-      
-      
 
 
-                              <b>Source:</b> <a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.fysik.su.se_english_research_hosted-2Dresearch-2Dprojects_axiondm_axiondm-2D1.493182-3Fmode-3Dsu-2Dcontact-2Deditor-26editor-3DfunctionAddress&amp;d=DwMGAg&amp;c=l45AxH-kUV29SRQusp9vYR0n1GycN4_2jInuKy6zbqQ&amp;r=cMtb2o4z7jpmxXa2wYehZGfzYawh0sligSk6cKbUzcU&amp;m=hTEvSYdNlC4sFNmoV6rZcANt2flLpykaBEpWRez8wMU&amp;s=iIPMRxJbGBuW7K_yfoTfoUp1k3uiELuOlYRcIfRxlvA&amp;e=" title="Use this form to contact us">Hiranya Peiris </a> <br />
-                
-    </p>
-  </div>
-  <div class="clear-float"></div>
-</div>
-  </body>
-</html>
+
+To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+
+We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
+
+We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+</figure>
