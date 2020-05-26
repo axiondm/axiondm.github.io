@@ -1,196 +1,81 @@
 ---
-title: "Allan Lab - Team"
+title: "AxionDM- Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "AxionDM:Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+https://www.fysik.su.se/polopoly_fs/1.493243!/image/image.jpg_gen/derivatives/teaser_w251/image.jpg
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+https://www.fysik.su.se/polopoly_fs/1.440409!/image/image.jpg_gen/derivatives/teaser_w251/image.jpg
 
+https://www.fysik.su.se/polopoly_fs/1.478096!/image/image.jpg_gen/derivatives/teaser_w251/image.jpg
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+# Members of the AxionDM projectThe Oskar Klein Centre and Stockholm University will become a hub for axion research beginning now in 2020 thanks to a new Research Environment grant from the Swedish Research Council. A theoretical particle so far, the axion was introduced to explain why the strong force works the same both backwards and forwards in time and is also considered a serious dark matter candidate. The discovery of a cosmic axion background, or the ability to rule it out, would be an important result for both Standard Model physics and dark matter searches.
 
-## Staff
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+http://www.okc.albanova.se/about-us/news/new-vr-research-environment-grant-will-focus-on-axions-1.478087 (A multidisciplinary collaboration)
 
-{% assign even_odd = number_printed | modulo: 2 %}
+Senior members
+Stefano Bonetti
+Jan Conrad
+Jon Gudmundsson
+David Marsh
+Frank Wilczek
+Hiranya Peiris (PI)
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+Postdocs / Researchers
+Tom Edwards
+Matthew Lawson
+Alexander Millar
+Keir Rogers
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+PhD students
+Alexandre Adler
+Konstantina Dachlythra
+Katherine Dunne
+Eike Müller
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+Associate members
+Alexander Balatsky (Nordita)
+Matthias Geilhufe (Nordita)
+Ariel Goobar
+Tim Linden
+Bart Olsthoorn (Nordita)
+Andreas Rydh
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
+External and International partners
+Arizona State University:
+Nate Newman
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
+Chalmers / Nizhny Novgorod State Technical University:
+Leonid Kuzmin
 
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
+MIT
 
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
+Sid Morampudi
 
-  </ul>
-</div>
+Stanford University
 
-{% assign number_printed = number_printed | plus: 1 %}
+Sebastian Baum
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+UC Berkeley:
+Karl Van Bibber
+Alexander Droster
+Vishal Gajjar
+Al Kenany
+Samantha Lewis
 
-{% endfor %}
+UC Berkeley / LBNL:
+Sinead Griffin
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+UC Davis:
+Valentin Taufour
 
+University of Michigan:
+Josh Foster
+Ben Safdi
 
+Last updated: May 20, 2020
+Source: Hiranya Peiris
 
-
-## Master and Bachelor Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-## Alumni
-
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
