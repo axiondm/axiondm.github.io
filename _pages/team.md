@@ -1,6 +1,6 @@
 ---
 title: "AxionDM- Team"
-layout: Gridlay
+layout: textlay
 excerpt: "AxionDM:Team members"
 sitemap: false
 permalink: /team/
