@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "AxionDM - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "AxionDM -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -16,6 +16,10 @@ https://www.fysik.su.se/polopoly_fs/1.493243!/image/image.jpg_gen/derivatives/te
 https://www.fysik.su.se/polopoly_fs/1.440409!/image/image.jpg_gen/derivatives/teaser_w251/image.jpg
 
 https://www.fysik.su.se/polopoly_fs/1.478096!/image/image.jpg_gen/derivatives/teaser_w251/image.jpg
+
+The Oskar Klein Centre and Stockholm University will become a hub for axion research beginning now in 2020 thanks to a new Research Environment grant from the Swedish Research Council. A theoretical particle so far, the axion was introduced to explain why the strong force works the same both backwards and forwards in time and is also considered a serious dark matter candidate. The discovery of a cosmic axion background, or the ability to rule it out, would be an important result for both Standard Model physics and dark matter searches.
+
+http://www.okc.albanova.se/about-us/news/new-vr-research-environment-grant-will-focus-on-axions-1.478087 (A multidisciplinary collaboration)
 
  
 The themes of this research environment are:
