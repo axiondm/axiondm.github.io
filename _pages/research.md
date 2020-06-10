@@ -1,25 +1,37 @@
 ---
-title: "Allan Lab - Research"
+title: "AxionDM - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "AxionDM -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+The AxionDM research environment brings together cosmologists, particle physicists, and condensed matter physicists to develop new ways to discover the axion.
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
+https://www.fysik.su.se/polopoly_fs/1.493243!/image/image.jpg_gen/derivatives/teaser_w251/image.jpg 
+
+https://www.fysik.su.se/polopoly_fs/1.440409!/image/image.jpg_gen/derivatives/teaser_w251/image.jpg
+
+https://www.fysik.su.se/polopoly_fs/1.478096!/image/image.jpg_gen/derivatives/teaser_w251/image.jpg
+
+The Oskar Klein Centre and Stockholm University will become a hub for axion research beginning now in 2020 thanks to a new Research Environment grant from the Swedish Research Council. A theoretical particle so far, the axion was introduced to explain why the strong force works the same both backwards and forwards in time and is also considered a serious dark matter candidate. The discovery of a cosmic axion background, or the ability to rule it out, would be an important result for both Standard Model physics and dark matter searches.
+
+http://www.okc.albanova.se/about-us/news/new-vr-research-environment-grant-will-focus-on-axions-1.478087 (A multidisciplinary collaboration)
+
  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+The themes of this research environment are:
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+The axion-plasmon haloscope.
+This theme will comprehensively investigate how new experimental ideas using plasmas can be used to detect the axion. One plasma we will focus on in particular is made from a collection of parallel, thin wires, a “thin wire meta-material”. Meta-materials are manufactured composite materials that can exhibit properties which are unusual in naturally-occurring materials. We will investigate the ability of one of the simplest meta-materials to exhibit so-called resonant conversion of axions from the Milky Way’s dark matter halo into particle-like ‟plasmons”, excitations in the meta-material.    
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+Astronomical signals from axion dark matter.
+This theme will determine the most relevant astronomical signals from axions and similar particles, and initiate searches for these. The axion and similar ‟axion-like particles” can produce characteristic signals on cosmological or astrophysical scales. Ultralight axions that behave like waves on galactic scales can produce cosmological imprints that may help explain some puzzling properties of the dark matter distribution on small cosmological scales. In addition, more massive axions can generate radio signals from axion-photon conversion in astrophysical magnetic fields, or through decay, and these may be detectable by terrestrial telescopes.
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+Quantum matter for axion detection.
+This theme will identify and characterise new materials that can be used for axion detection. Material informatics adapts methods from computer science based on data-mining and machine learning to identify materials with desired target properties. We will use material informatics to identify functional materials suitable for axion direct detection, and then characterise these in the lab using THz spectroscopy.
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+Last updated: March 30, 2020
+Source: Hiranya Peiris
