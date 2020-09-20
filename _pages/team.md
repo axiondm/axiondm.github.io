@@ -10,6 +10,68 @@ permalink: /team/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
+##Senior members
+Stefano Bonetti
+Jan Conrad
+Jon Gudmundsson
+David Marsh
+Frank Wilczek
+Hiranya Peiris (PI)
+
+##Postdocs / Researchers
+Tom Edwards
+Matthew Lawson
+Alexander Millar
+Keir Rogers
+
+##PhD students
+Alexandre Adler
+Konstantina Dachlythra
+Katherine Dunne
+Eike Müller
+
+##Associate members
+Alexander Balatsky (Nordita)
+Matthias Geilhufe (Nordita)
+Ariel Goobar
+Tim Linden
+Bart Olsthoorn (Nordita)
+Andreas Rydh
+
+##External and International partners
+Arizona State University:
+Nate Newman
+
+Chalmers / Nizhny Novgorod State Technical University:
+Leonid Kuzmin
+
+##MIT
+
+Sid Morampudi
+
+##Stanford University
+
+Sebastian Baum
+
+##UC Berkeley:
+Karl Van Bibber
+Alexander Droster
+Vishal Gajjar
+Al Kenany
+Samantha Lewis
+
+##UC Berkeley / LBNL:
+Sinead Griffin
+
+##UC Davis:
+Valentin Taufour
+
+##University of Michigan:
+Josh Foster
+Ben Safdi
+
+
+<!--
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
@@ -194,3 +256,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+ -->
