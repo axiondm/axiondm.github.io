@@ -10,7 +10,7 @@ permalink: /team/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-##Senior members
+## Senior members
 Stefano Bonetti
 Jan Conrad
 Jon Gudmundsson
@@ -18,19 +18,19 @@ David Marsh
 Frank Wilczek
 Hiranya Peiris (PI)
 
-##Postdocs / Researchers
+## Postdocs / Researchers
 Tom Edwards
 Matthew Lawson
 Alexander Millar
 Keir Rogers
 
-##PhD students
+## PhD students
 Alexandre Adler
 Konstantina Dachlythra
 Katherine Dunne
 Eike Müller
 
-##Associate members
+## Associate members
 Alexander Balatsky (Nordita)
 Matthias Geilhufe (Nordita)
 Ariel Goobar
@@ -38,35 +38,36 @@ Tim Linden
 Bart Olsthoorn (Nordita)
 Andreas Rydh
 
-##External and International partners
-Arizona State University:
+## External and International partners
+
+### Arizona State University:
 Nate Newman
 
-Chalmers / Nizhny Novgorod State Technical University:
+### Chalmers / Nizhny Novgorod State Technical University:
 Leonid Kuzmin
 
-##MIT
+### MIT
 
 Sid Morampudi
 
-##Stanford University
+### Stanford University
 
 Sebastian Baum
 
-##UC Berkeley:
+### UC Berkeley:
 Karl Van Bibber
 Alexander Droster
 Vishal Gajjar
 Al Kenany
 Samantha Lewis
 
-##UC Berkeley / LBNL:
+### UC Berkeley / LBNL:
 Sinead Griffin
 
-##UC Davis:
+### UC Davis:
 Valentin Taufour
 
-##University of Michigan:
+### University of Michigan:
 Josh Foster
 Ben Safdi
 
