@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "AxionDM - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Axion D -- Pictures"
 permalink: /pictures/
 ---
 
