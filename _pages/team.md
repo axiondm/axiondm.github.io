@@ -60,27 +60,23 @@ Andreas Rydh
 
 ## External and International partners
 
-<BR>
+
 #### Arizona State University:
 
 Nate Newman
 
-<BR>
 #### Chalmers / Nizhny Novgorod State Technical University:
 
 Leonid Kuzmin
 
-<BR>
 #### MIT
 
 Sid Morampudi
 
-<BR>
 #### Stanford University
 
 Sebastian Baum
 
-<BR>
 #### UC Berkeley:
 
 Karl Van Bibber
@@ -93,17 +89,14 @@ Al Kenany
 
 Samantha Lewis
 
-<BR>
 #### UC Berkeley / LBNL:
 
 Sinead Griffin
 
-<BR>
 #### UC Davis:
 
 Valentin Taufour
 
-<BR>
 #### University of Michigan:
 
 Josh Foster
