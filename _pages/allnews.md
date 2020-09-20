@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Axiondm Stockholm University."
+excerpt: "AxionDM Stockholm University."
 sitemap: false
 permalink: /allnews.html
 ---
