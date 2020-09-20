@@ -15,13 +15,13 @@ The nature of the dark matter is one of the most profound unanswered questions i
 
 
 
+This project, funded by a <a href="http://www.okc.albanova.se/about-us/news/new-vr-research-environment-grant-will-focus-on-axions-1.478087">Research Environment Grant</a> (2020-2025) from the <a href="https://www.vr.se/">Swedish Research Council</a>, leverages the convergence of expertise in axion physics, dark matter detection, material science and cosmology at Stockholm University.
 
-This project, funded by a <a href="https://http://www.okc.albanova.se/about-us/news/new-vr-research-environment-grant-will-focus-on-axions-1.478087">Research Environment Grant</a> (2020-2025) from the Swedish Research Council, leverages the convergence of expertise in axion physics, dark matter detection, material science and cosmology at Stockholm University.
 
-
-<figure class="fourth">
+<!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
+ -->
