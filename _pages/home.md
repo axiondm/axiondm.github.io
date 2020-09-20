@@ -11,7 +11,7 @@ The nature of the dark matter is one of the most profound unanswered questions i
 
 <BR>
 <!-- <div class="image-block image-default"></div> -->
-<div class="image-block-image"><img alt="" class="article-image" src="images/triangle.jpg" /></div>
+<div class="image-block-image"><img alt="" class="article-image" src="{{ site.url }}{{ site.baseurl }}/images/triangle.jpg" /></div>
 <BR>
 
 
