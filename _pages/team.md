@@ -10,6 +10,39 @@ permalink: /team/
 
  <!-- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
+<div class="row">
+
+<div class="col-sm-4 clearfix">
+<h4>Senior members</h4>
+Stefano Bonetti
+Jan Conrad
+Jon Gudmundsson
+David Marsh
+Frank Wilczek
+Hiranya Peiris (PI)
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Postdocs</h4>
+Tom Edwards
+Matthew Lawson
+Alexander Millar
+Keir Rogers
+</div>
+
+
+<div class="col-sm-4 clearfix">
+<h4>PhD students</h4>
+Alexandre Adler
+Konstantina Dachlythra
+Katherine Dunne
+Eike Müller
+</div>
+
+
+</div>
+
+
 ## Senior members
 
 Stefano Bonetti
