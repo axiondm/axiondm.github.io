@@ -22,13 +22,13 @@ The themes of this research environment are:
 <h3> The axion-plasmon haloscope </h3>
 
 <div class="row">
-<div class="col-sm-9 clearfix">
-    <p align=left>
+<div class="col-sm-9">
+
 This theme will comprehensively investigate how new experimental ideas using plasmas can be used to detect the axion. One plasma we will focus on in particular is made from a collection of parallel, thin wires, a “thin wire meta-material”. Meta-materials are manufactured composite materials that can exhibit properties which are unusual in naturally-occurring materials. We will investigate the ability of one of the simplest meta-materials to exhibit so-called resonant conversion of axions from the Milky Way’s dark matter halo into particle-like ‟plasmons”, excitations in the meta-material.
- </p>
+
 </div>
 
-<div class="col-sm-3 clearfix">
+<div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png" width="200px"  alt="">
 </div>
 
@@ -39,13 +39,13 @@ This theme will comprehensively investigate how new experimental ideas using pla
 <h3> Astronomical signals from axion dark matter </h3>
 
 <div class="row">
-<div class="col-sm-9 clearfix">
-    <p align=left>
+<div class="col-sm-9">
+
 This theme will determine the most relevant astronomical signals from axions and similar particles, and initiate searches for these. The axion and similar ‟axion-like particles” can produce characteristic signals on cosmological or astrophysical scales. Ultralight axions that behave like waves on galactic scales can produce cosmological imprints that may help explain some puzzling properties of the dark matter distribution on small cosmological scales. In addition, more massive axions can generate radio signals from axion-photon conversion in astrophysical magnetic fields, or through decay, and these may be detectable by terrestrial telescopes.
-</p>
+
 </div>
 
-<div class="col-sm-3 clearfix">
+<div class="col-sm-3">
     <img src="{{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png" width="200px"  alt="">
 </div>
 </div>
@@ -54,13 +54,13 @@ This theme will determine the most relevant astronomical signals from axions and
 <h3> Quantum matter for axion detection </h3>
 
 <div class="row">
-<div class="col-sm-9 clearfix">
-    <p align=left>
+<div class="col-sm-9">
+
 This theme will identify and characterise new materials that can be used for axion detection. Material informatics adapts methods from computer science based on data-mining and machine learning to identify materials with desired target properties. We will use material informatics to identify functional materials suitable for axion direct detection, and then characterise these in the lab using THz spectroscopy.
-</p>
+
 </div>
 
-<div class="col-sm-3 clearfix">
+<div class="col-sm-3">
     <img src="{{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.png" width="200px"  alt="">
 </div>
 </div>
