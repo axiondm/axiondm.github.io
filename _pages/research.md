@@ -6,52 +6,28 @@ sitemap: false
 permalink: /research/
 ---
 
-<h2> Research </h2>
+# Research
 
 The AxionDM research environment brings together cosmologists, particle physicists, and condensed matter physicists to develop new ways to discover the axion.
 
 The themes of this research environment are:
 
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png){: style="width: 200px; float: right; border: 10px"} -->
+![]({{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png){: style="width: 200px; float: right; border: 10px"}
 
-<div class="container text-left">
-
-<h3>The axion-plasmon haloscope </h3>
-
-<div class="row">
-<div class="col-sm-9">
+## The axion-plasmon haloscope
 This theme will comprehensively investigate how new experimental ideas using plasmas can be used to detect the axion. One plasma we will focus on in particular is made from a collection of parallel, thin wires, a “thin wire meta-material”. Meta-materials are manufactured composite materials that can exhibit properties which are unusual in naturally-occurring materials. We will investigate the ability of one of the simplest meta-materials to exhibit so-called resonant conversion of axions from the Milky Way’s dark matter halo into particle-like ‟plasmons”, excitations in the meta-material.
-</div>
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png" width="150px"  alt="">
-</div>
-</div>
 
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png){: style="width: 150px; float: left; border: 10px"} -->
-<h3>Astronomical signals from axion dark matter </h3>
-<div class="row">
-<div class="col-sm-9">
+![]({{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png){: style="width: 200px; float: left; border: 10px"}
+## Astronomical signals from axion dark matter
 This theme will determine the most relevant astronomical signals from axions and similar particles, and initiate searches for these. The axion and similar ‟axion-like particles” can produce characteristic signals on cosmological or astrophysical scales. Ultralight axions that behave like waves on galactic scales can produce cosmological imprints that may help explain some puzzling properties of the dark matter distribution on small cosmological scales. In addition, more massive axions can generate radio signals from axion-photon conversion in astrophysical magnetic fields, or through decay, and these may be detectable by terrestrial telescopes.
-</div>
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png" width="150px"  alt="">
-</div>
-</div>
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.PNG){: style="width: 150px; float: right; border: 10px"} -->
-<h3>Quantum matter for axion detection </h3>
-<div class="row">
-<div class="col-sm-9">
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.PNG){: style="width: 200px; float: right; border: 10px"}
+## Quantum matter for axion detection
 This theme will identify and characterise new materials that can be used for axion detection. Material informatics adapts methods from computer science based on data-mining and machine learning to identify materials with desired target properties. We will use material informatics to identify functional materials suitable for axion direct detection, and then characterise these in the lab using THz spectroscopy.
-</div>
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.PNG" width="150px"  alt="">
-</div>
-</div>
 
-</div>
 
 
 <!--
