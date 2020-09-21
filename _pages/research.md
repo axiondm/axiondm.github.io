@@ -21,7 +21,7 @@ The themes of this research environment are:
 
 <div class="row">
 <div class="col-sm-9 clearfix">
-    <p align="left">
+    <p align=left>
 This theme will comprehensively investigate how new experimental ideas using plasmas can be used to detect the axion. One plasma we will focus on in particular is made from a collection of parallel, thin wires, a “thin wire meta-material”. Meta-materials are manufactured composite materials that can exhibit properties which are unusual in naturally-occurring materials. We will investigate the ability of one of the simplest meta-materials to exhibit so-called resonant conversion of axions from the Milky Way’s dark matter halo into particle-like ‟plasmons”, excitations in the meta-material.
  </p>
 </div>
@@ -38,7 +38,7 @@ This theme will comprehensively investigate how new experimental ideas using pla
 
 <div class="row">
 <div class="col-sm-9 clearfix">
-    <p align="left">
+    <p align=left>
 This theme will determine the most relevant astronomical signals from axions and similar particles, and initiate searches for these. The axion and similar ‟axion-like particles” can produce characteristic signals on cosmological or astrophysical scales. Ultralight axions that behave like waves on galactic scales can produce cosmological imprints that may help explain some puzzling properties of the dark matter distribution on small cosmological scales. In addition, more massive axions can generate radio signals from axion-photon conversion in astrophysical magnetic fields, or through decay, and these may be detectable by terrestrial telescopes.
 </p>
 </div>
@@ -53,7 +53,7 @@ This theme will determine the most relevant astronomical signals from axions and
 
 <div class="row">
 <div class="col-sm-9 clearfix">
-    <p align="left">
+    <p align=left>
 This theme will identify and characterise new materials that can be used for axion detection. Material informatics adapts methods from computer science based on data-mining and machine learning to identify materials with desired target properties. We will use material informatics to identify functional materials suitable for axion direct detection, and then characterise these in the lab using THz spectroscopy.
 </p>
 </div>
