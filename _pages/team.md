@@ -60,6 +60,7 @@ Alexander Balatsky (Nordita)
 
 Matthias Geilhufe (Nordita)
 
+</div>
 <div class="col-sm-4 clearfix">
 
 Ariel Goobar
