@@ -61,7 +61,7 @@ This theme will identify and characterise new materials that can be used for axi
 </div>
 
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.png" width="150px"  alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.PNG" width="150px"  alt="">
 </div>
 </div>
 
