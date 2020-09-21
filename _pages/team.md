@@ -12,42 +12,42 @@ permalink: /team/
 
 <div class="row">
 
-<div class="col-sm-4 clearfix">
-<h4>Senior members</h4>
-Stefano Bonetti
+  <div class="col-sm-4 clearfix">
+  <h4>Senior members</h4>
+  Stefano Bonetti
 
-Jan Conrad
+  Jan Conrad
 
-Jon Gudmundsson
+  Jon Gudmundsson
 
-David Marsh
+  David Marsh
 
-Frank Wilczek
+  Frank Wilczek
 
-Hiranya Peiris (PI)
-</div>
+  Hiranya Peiris (PI)
+  </div>
 
-<div class="col-sm-4 clearfix">
-<h4>Postdocs</h4>
-Tom Edwards
+  <div class="col-sm-4 clearfix">
+  <h4>Postdocs</h4>
+  Tom Edwards
 
-Matthew Lawson
+  Matthew Lawson
 
-Alexander Millar
+  Alexander Millar
 
-Keir Rogers
-</div>
+  Keir Rogers
+  </div>
 
-<div class="col-sm-4 clearfix">
-<h4>PhD students</h4>
-Alexandre Adler
+  <div class="col-sm-4 clearfix">
+  <h4>PhD students</h4>
+  Alexandre Adler
 
-Konstantina Dachlythra
+  Konstantina Dachlythra
 
-Katherine Dunne
+  Katherine Dunne
 
-Eike Müller
-</div>
+  Eike Müller
+  </div>
 
 </div>
 
@@ -62,6 +62,7 @@ Matthias Geilhufe (Nordita)
 
 </div>
 <div class="col-sm-4 clearfix">
+  <h4></h4>
 
 Ariel Goobar
 
@@ -70,6 +71,7 @@ Tim Linden
 </div>
 
 <div class="col-sm-4 clearfix">
+  <h4></h4>
 
 Bart Olsthoorn (Nordita)
 
@@ -78,9 +80,6 @@ Andreas Rydh
 
 </div>
 
-<div class="col-sm-4 clearfix"></div>
-<div class="col-sm-4 clearfix"></div>
-</div>
 
 # External and International partners
 
