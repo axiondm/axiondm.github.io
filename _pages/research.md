@@ -25,7 +25,7 @@ This theme will determine the most relevant astronomical signals from axions and
 ## Quantum matter for axion detection
 This theme will identify and characterise new materials that can be used for axion detection. Material informatics adapts methods from computer science based on data-mining and machine learning to identify materials with desired target properties. We will use material informatics to identify functional materials suitable for axion direct detection, and then characterise these in the lab using THz spectroscopy.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.png){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.PNG){: style="width: 200px; float: right; border: 10px"}
 
 <!--
 
