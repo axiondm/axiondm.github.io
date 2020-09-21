@@ -60,13 +60,20 @@ Alexander Balatsky (Nordita)
 
 Matthias Geilhufe (Nordita)
 
+<div class="col-sm-4 clearfix">
+
 Ariel Goobar
 
 Tim Linden
 
+</div>
+
+<div class="col-sm-4 clearfix">
+
 Bart Olsthoorn (Nordita)
 
 Andreas Rydh
+</div>
 
 </div>
 
@@ -78,11 +85,11 @@ Andreas Rydh
 
 <div class="row">
 <div class="col-sm-4 clearfix">
-<h4>Arizona State University:</h4>
+<h4>Arizona State University</h4>
 
 Nate Newman
 
-<h4>Chalmers / Nizhny Novgorod State Technical University:</h4>
+<h4>Chalmers</h4>
 
 Leonid Kuzmin
 
@@ -94,7 +101,6 @@ Sid Morampudi
 
 Sebastian Baum
 </div>
-
 
 <div class="col-sm-4 clearfix">
 
