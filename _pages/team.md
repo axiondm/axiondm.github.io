@@ -15,30 +15,39 @@ permalink: /team/
 <div class="col-sm-4 clearfix">
 <h4>Senior members</h4>
 Stefano Bonetti
+
 Jan Conrad
+
 Jon Gudmundsson
+
 David Marsh
+
 Frank Wilczek
+
 Hiranya Peiris (PI)
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>Postdocs</h4>
 Tom Edwards
+
 Matthew Lawson
+
 Alexander Millar
+
 Keir Rogers
 </div>
-
 
 <div class="col-sm-4 clearfix">
 <h4>PhD students</h4>
 Alexandre Adler
+
 Konstantina Dachlythra
+
 Katherine Dunne
+
 Eike Müller
 </div>
-
 
 </div>
 
