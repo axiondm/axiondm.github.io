@@ -52,6 +52,105 @@ Eike Müller
 </div>
 
 
+<div class="row">
+<div class="col-sm-4 clearfix">
+<h4>Associate Members</h4>
+
+Alexander Balatsky (Nordita)
+
+Matthias Geilhufe (Nordita)
+
+Ariel Goobar
+
+Tim Linden
+
+Bart Olsthoorn (Nordita)
+
+Andreas Rydh
+
+</div>
+
+<div class="col-sm-4 clearfix"></div>
+<div class="col-sm-4 clearfix"></div>
+</div>
+
+# External and International partners
+
+<div class="row">
+<div class="col-sm-4 clearfix">
+<h4>Arizona State University:</h4>
+
+Nate Newman
+
+<h4>Chalmers / Nizhny Novgorod State Technical University:</h4>
+
+Leonid Kuzmin
+
+<h4> MIT </h4>
+
+Sid Morampudi
+
+<h4> Stanford University </h4>
+
+Sebastian Baum
+</div>
+
+
+<div class="col-sm-4 clearfix">
+
+<h4> UC Berkeley </h4>
+
+Karl Van Bibber
+
+Alexander Droster
+
+Vishal Gajjar
+
+Al Kenany
+
+Samantha Lewis
+
+<h4>  UC Berkeley / LBNL </h4>
+
+Sinead Griffin
+
+</div>
+
+<div class="col-sm-4 clearfix">
+
+<h4> UC Davis </h4>
+
+Valentin Taufour
+
+<h4> University of Michigan </h4>
+
+Josh Foster
+
+Ben Safdi
+
+</div>
+
+</div>
+
+<!--
+Alexander Balatsky (Nordita)
+
+Matthias Geilhufe (Nordita)
+
+Ariel Goobar
+
+Tim Linden
+
+Bart Olsthoorn (Nordita)
+
+Andreas Rydh
+
+</div>
+
+<div class="col-sm-4 clearfix"></div>
+<div class="col-sm-4 clearfix"></div>
+</div>
+
 ## Senior members
 
 Stefano Bonetti
@@ -144,7 +243,7 @@ Valentin Taufour
 Josh Foster
 
 Ben Safdi
-
+ -->
 
 <!--
 
