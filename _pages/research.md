@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+<h2> Research </h2>
 
 The AxionDM research environment brings together cosmologists, particle physicists, and condensed matter physicists to develop new ways to discover the axion.
 
@@ -15,9 +15,11 @@ The themes of this research environment are:
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png){: style="width: 200px; float: right; border: 10px"} -->
 
-  <div class="container-fluid">
 
-## The axion-plasmon haloscope
+
+<div class="container text-left">
+
+<h3> The axion-plasmon haloscope </h3>
 
 <div class="row">
 <div class="col-sm-9 clearfix">
@@ -34,7 +36,7 @@ This theme will comprehensively investigate how new experimental ideas using pla
 
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png){: style="width: 200px; float: left; border: 10px"} -->
-## Astronomical signals from axion dark matter
+<h3> Astronomical signals from axion dark matter </h3>
 
 <div class="row">
 <div class="col-sm-9 clearfix">
@@ -49,7 +51,7 @@ This theme will determine the most relevant astronomical signals from axions and
 </div>
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.PNG){: style="width: 200px; float: right; border: 10px"} -->
-## Quantum matter for axion detection
+<h3> Quantum matter for axion detection </h3>
 
 <div class="row">
 <div class="col-sm-9 clearfix">
