@@ -29,13 +29,13 @@ This theme will comprehensively investigate how new experimental ideas using pla
 </div>
 
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png" width="200px"  alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png" width="150px"  alt="">
 </div>
 
 </div>
 
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png){: style="width: 200px; float: left; border: 10px"} -->
+<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png){: style="width: 150px; float: left; border: 10px"} -->
 <h3> Astronomical signals from axion dark matter </h3>
 
 <div class="row">
@@ -46,11 +46,11 @@ This theme will determine the most relevant astronomical signals from axions and
 </div>
 
 <div class="col-sm-3">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png" width="200px"  alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png" width="150px"  alt="">
 </div>
 </div>
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.PNG){: style="width: 200px; float: right; border: 10px"} -->
+<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.PNG){: style="width: 150px; float: right; border: 10px"} -->
 <h3> Quantum matter for axion detection </h3>
 
 <div class="row">
@@ -61,7 +61,7 @@ This theme will identify and characterise new materials that can be used for axi
 </div>
 
 <div class="col-sm-3">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.png" width="200px"  alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.png" width="150px"  alt="">
 </div>
 </div>
 
