@@ -15,6 +15,8 @@ The themes of this research environment are:
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png){: style="width: 200px; float: right; border: 10px"} -->
 
+  <div class="container-fluid">
+
 ## The axion-plasmon haloscope
 
 <div class="row">
@@ -59,6 +61,8 @@ This theme will identify and characterise new materials that can be used for axi
 <div class="col-sm-3 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.png" width="200px"  alt="">
 </div>
+</div>
+
 </div>
 
 
