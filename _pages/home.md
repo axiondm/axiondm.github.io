@@ -1,7 +1,7 @@
 ---
 title: "AxionDM - Home"
 layout: homelay
-excerpt: "AxionDM @ Stockholm University."
+excerpt: "AxionDM @ Stockholm"
 sitemap: false
 permalink: /
 ---
