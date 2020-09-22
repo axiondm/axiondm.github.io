@@ -14,9 +14,10 @@ permalink: /team/
 
   <div class="col-sm-4 clearfix">
   <h4>Senior members</h4>
-  Stefano Bonetti
 
-  Jan Conrad
+  <a href="https://www.su.se/profiles/sbone-1.219469">Stefano Bonetti</a>
+
+  <a href="https://www.su.se/english/profiles/conrad-1.186685">Jan Conrad</a>
 
   Jon Gudmundsson
 
