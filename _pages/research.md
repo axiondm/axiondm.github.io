@@ -8,10 +8,13 @@ permalink: /research/
 
 # Research
 
+<div style="text-align: justify">
 The AxionDM research environment brings together cosmologists, particle physicists, and condensed matter physicists to develop new ways to discover the axion.
+</div>
 
+<div style="text-align: justify">
 The themes of this research environment are:
-
+</div>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png){: style="width: 200px; float: right; border: 10px; padding:10px"}
 
