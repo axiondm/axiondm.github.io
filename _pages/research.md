@@ -16,7 +16,9 @@ The themes of this research environment are:
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png){: style="width: 200px; float: right; border: 10px"}
 
 ## The axion-plasmon haloscope
+<div style="text-align: justify">
 This theme will comprehensively investigate how new experimental ideas using plasmas can be used to detect the axion. One plasma we will focus on in particular is made from a collection of parallel, thin wires, a “thin wire meta-material”. Meta-materials are manufactured composite materials that can exhibit properties which are unusual in naturally-occurring materials. We will investigate the ability of one of the simplest meta-materials to exhibit so-called resonant conversion of axions from the Milky Way’s dark matter halo into particle-like ‟plasmons”, excitations in the meta-material.
+</div>
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png){: style="width: 200px; float: left; border: 10px"}
