@@ -35,5 +35,6 @@ This project, funded by a <a href="http://www.okc.albanova.se/about-us/news/new-
   &nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 150px; padding: 10px">
 </figure>
+<BR>
 
 <!-- padding-left: 10px; padding-right: 10px;" -->
