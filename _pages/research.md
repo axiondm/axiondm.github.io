@@ -12,7 +12,7 @@ permalink: /research/
 The AxionDM research environment brings together cosmologists, particle physicists, and condensed matter physicists to develop new ways to discover the axion. The themes of this research environment are:
 </div>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png){: style="width: 200px; float: right; border: 10px; padding:10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/cylinder.png){: style="width: 150px; float: right; border: 10px; padding:10px"}
 
 ## The axion-plasmon haloscope
 <div style="text-align: justify">
@@ -27,7 +27,7 @@ This theme will determine the most relevant astronomical signals from axions and
 </div>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.PNG){: style="width: 200px; float: right; border: 10px; padding:10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/quantum_matter.PNG){: style="width: 150px; float: right; border: 10px; padding:10px"}
 ## Quantum matter for axion detection
 <div style="text-align: justify">
 This theme will identify and characterise new materials that can be used for axion detection. Material informatics adapts methods from computer science based on data-mining and machine learning to identify materials with desired target properties. We will use material informatics to identify functional materials suitable for axion direct detection, and then characterise these in the lab using THz spectroscopy.
