@@ -35,7 +35,6 @@ permalink: /team/
 
   Alexander Millar
 
-  Keir Rogers
   </div>
 
   <div class="col-sm-4 clearfix">
