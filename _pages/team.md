@@ -54,19 +54,23 @@ permalink: /team/
 
 <div class="row">
 <div class="col-sm-4 clearfix">
+
+<h4>Alumni</h4>
+
+Keir Rogers
+
+</div>
+
+
+<div class="col-sm-4 clearfix">
+
 <h4>Associate Members</h4>
 
 Alexander Balatsky (Nordita)
 
 Matthias Geilhufe (Nordita)
 
-</div>
-<div class="col-sm-4 clearfix">
-  <h4></h4>
-
 Ariel Goobar
-
-Tim Linden
 
 </div>
 
@@ -76,6 +80,9 @@ Tim Linden
 Bart Olsthoorn (Nordita)
 
 Andreas Rydh
+
+Tim Linden
+
 </div>
 
 </div>
