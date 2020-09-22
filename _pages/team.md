@@ -19,13 +19,13 @@ permalink: /team/
 
   <a href="https://www.su.se/english/profiles/conrad-1.186685">Jan Conrad</a>
 
-  Jon Gudmundsson
+  <a href="http://www.jon.fysik.su.se/">Jon Gudmundsson</a>
 
-  David Marsh
+  <a href="https://www.su.se/english/profiles/dama1420-1.423964">David Marsh</a>
 
-  Frank Wilczek
+  <a href="https://www.su.se/profiles/wilczek-1.281800">Frank Wilczek</a>
 
-  Hiranya Peiris (PI)
+  <a href="https://www.ucl.ac.uk/cosmoparticle/hiranya-peiris">Hiranya Peiris (PI) </a>
   </div>
 
   <div class="col-sm-4 clearfix">
