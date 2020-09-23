@@ -6,13 +6,13 @@
 
 - date: 18. March 2020
   headline: "Axion Environment started by VR grant: <a href='http://www.okc.albanova.se/about-us/news/new-vr-research-environment-grant-will-focus-on-axions-1.478087'>link</a> "
-  title: "Axion Environment started by VR grant"
-  text: "Insert text"
+  title: "Axion Environment started by VR grant: <a href='http://www.okc.albanova.se/about-us/news/new-vr-research-environment-grant-will-focus-on-axions-1.478087'>link</a> "
+  text: ""
 
 - date: 17. October 2019
   headline: "Plasma haloscope in Ars Technica <a href='https://arstechnica.com/science/2019/10/axion-radio-would-exploit-cold-plasmas-to-let-physicists-hear-dark-matter/'>link</a>"
-  title: "Plasma haloscope in Ars Technica"
-  text: "Insert text"
+  title: "Plasma haloscope in Ars Technica: <a href='https://arstechnica.com/science/2019/10/axion-radio-would-exploit-cold-plasmas-to-let-physicists-hear-dark-matter/'>link</a>"
+  text: ""
 
 # - date: 25. July 2019
 #   headline: "Example with <b>bold</b> <a href='https://www.nature.com/articles/s41586-019-1408-8'>links</a>, and images! <img src='/images/newspic/SFnews.png' class='img-responsive' style='max-width: 192px' />"
