@@ -20,7 +20,7 @@ This theme will comprehensively investigate how new experimental ideas using pla
 </div>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png){: style="width: 150px; float: left; border: 10px; padding:10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/astronomy.png){: style="width: 170px; float: left; border: 10px; padding:10px"}
 ## Astronomical signals from axion dark matter
 <div style="text-align: justify">
 This theme will determine the most relevant astronomical signals from axions and similar particles, and initiate searches for these. The axion and similar ‟axion-like particles” can produce characteristic signals on cosmological or astrophysical scales. Ultralight axions that behave like waves on galactic scales can produce cosmological imprints that may help explain some puzzling properties of the dark matter distribution on small cosmological scales. In addition, more massive axions can generate radio signals from axion-photon conversion in astrophysical magnetic fields, or through decay, and these may be detectable by terrestrial telescopes.
