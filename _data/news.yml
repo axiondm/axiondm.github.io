@@ -1,14 +1,15 @@
 
 - date: 31. July 2020
   headline: "The plasma haloscope was introduced to the US-based Snowmass Process through a Letter of Interest (LoI). The LoI opens up avenues for collaboration through participation in workshops on axion physics and relevant detector technologies (quantum sensing and millimeter-wave detection)."
-
-The process will continue through July of 2021 and culminate in a Contributed Paper on the plasma haloscope concept that will be part of the Snowmass Proceedings, and serve as input for the P5 physics prioritization panel. The LoI can be found <a href="https://www.snowmass21.org/docs/files/summaries/IF/SNOWMASS21-IF1-CF2-003.pdf">here</a> "
+  text: "The process will continue through July of 2021 and culminate in a Contributed Paper on the plasma haloscope concept that will be part of the Snowmass Proceedings, and serve as input for the P5 physics prioritization panel. "
 
 - date: 18. March 2020
   headline: "Axion Environment started by VR grant: <a href='http://www.okc.albanova.se/about-us/news/new-vr-research-environment-grant-will-focus-on-axions-1.478087'>link</a> "
+  text: "Insert text"
 
 - date: 17. October 2019
   headline: "Plasma haloscope in Ars Technica <a href='https://arstechnica.com/science/2019/10/axion-radio-would-exploit-cold-plasmas-to-let-physicists-hear-dark-matter/'>link</a>"
+  text: "Insert text"
 
 # - date: 25. July 2019
 #   headline: "Example with <b>bold</b> <a href='https://www.nature.com/articles/s41586-019-1408-8'>links</a>, and images! <img src='/images/newspic/SFnews.png' class='img-responsive' style='max-width: 192px' />"
