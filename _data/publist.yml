@@ -28,6 +28,17 @@
   highlight: 1
   news2:
 
+- title: "Strong bound on canonical ultra-light axion dark matter from the Lyman-alpha forest"
+  image: strong.png
+  description: We present a new bound on the ultra-light axion (ULA) dark matter mass ma, using the Lyman-alpha forest to look for suppressed
+  authors: Keir K. Rogers* and Hiranya V. Peiris
+  link:
+    url: https://arxiv.org/abs/2007.12705
+    display: https://arxiv.org/abs/2007.12705
+  highlight: 1
+  news2:
+
+
 # - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
 #   image: STS_news.png
 #   description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
