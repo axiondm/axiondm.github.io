@@ -8,6 +8,18 @@
   highlight: 1
   news2:
 
+- title: "Revisiting longitudinal plasmon-axion conversion in external magnetic fields"
+  image: dispersion.png
+  description: In the presence of an external magnetic field, the axion and the photon mix. In particular, the dispersion relation of a longitudinal plasmon always crosses the dispersion relation of the axion (for small axion masses), thus leading to a resonant conversion. Using thermal field theory, we concisely derive the axion emission rate, applying it to astrophysical and laboratory scenarios.
+  authors: Andrea Caputo, Alexander J. Millar, and Edoardo Vitagliano
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.123004
+    display:  Physical Review D, Volume 101, Issue 12
+  highlight: 1
+  news2:
+
+
+
 # - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
 #   image: STS_news.png
 #   description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
