@@ -10,7 +10,7 @@
 
 - title: "Probing dark photons with plasma haloscopes"
   image: sensitivity.png
-  description: "Dark photons (DPs) produced in the early Universe are well-motivated dark matter (DM) candidates. We show that the recently proposed tunable plasma haloscopes are particularly advantageous for DP searches. While in-medium effects suppress the DP signal in conventional searches, plasma haloscopes make use of metamaterials that enable resonant absorption of the DP by matching its mass to a tunable plasma frequency and thus enable efficient plasmon production. Using thermal field theory, we confirm the in-medium DP absorption rate within the detector."
+  description: "Dark photons (DPs) produced in the early Universe are well-motivated dark matter (DM) candidates. We show that the recently proposed tunable plasma haloscopes are particularly advantageous for DP searches. While in-medium effects suppress the DP signal in conventional searches, plasma haloscopes make use of metamaterials that enable resonant absorption of the DP by matching its mass to a tunable plasma frequency and thus enable efficient plasmon production."
   authors: Graciela B. Gelmini, Alexander J. Millar, Volodymyr Takhistov, and Edoardo Vitagliano
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.043003
