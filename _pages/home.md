@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/MNQGEyWufII" frameborder="0" allowfullscreen></iframe>
+<div aling='center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MNQGEyWufII" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <BR>
 
