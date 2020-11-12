@@ -1,34 +1,6 @@
-- title: "Axion helioscopes as solar magnetometers"
-  image: solarmagnetometers.png
-  description: Axion helioscopes search for solar axions and axionlike particles via inverse Primakoff conversion in strong laboratory magnets pointed at the Sun. Anticipating the detection of solar axions, we determine the potential for the planned next-generation helioscope, the International Axion Observatory (IAXO), to measure or constrain the solar magnetic field. To do this we consider a previously neglected component of the solar axion flux at sub-keV energies arising from the conversion of longitudinal plasmons.
-  authors: Ciaran A. J. O'Hare, Andrea Caputo, Alexander J. Millar, and Edoardo Vitagliano
-  link:
-    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.043019
-    display:  Physical Review D, Volume 102, Issue 4, article id.043019
-  highlight: 1
-  news2:
 
-- title: "Tunable Axion Plasma Haloscopes"
-  image: efield.png
-  description: We propose a new strategy for searching for dark matter axions using tunable cryogenic plasmas. Unlike current experiments, which repair the mismatch between axion and photon masses by breaking translational invariance (cavity and dielectric haloscopes), a plasma haloscope enables resonant conversion by matching the axion mass to a plasma frequency.
-  authors: Matthew Lawson*, Alexander J. Millar*, Matteo Pancaldi, Edoardo Vitagliano, and Frank Wilczek
-  link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.141802
-    display:  Phys. Rev. Lett. 123, 141802
-  highlight: 1
-  news2:
-
-- title: "Probing dark photons with plasma haloscopes"
-  image: sensitivity.png
-  description: "Dark photons (DPs) produced in the early Universe are well-motivated dark matter (DM) candidates. We show that the recently proposed tunable plasma haloscopes are particularly advantageous for DP searches. While in-medium effects suppress the DP signal in conventional searches, plasma haloscopes make use of metamaterials that enable resonant absorption of the DP by matching its mass to a tunable plasma frequency and thus enable efficient plasmon production."
-  authors: Graciela B. Gelmini, Alexander J. Millar, Volodymyr Takhistov, and Edoardo Vitagliano
-  link:
-    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.043003
-    display: Physical Review D, Volume 102, Issue 4, article id.043003
-  highlight: 1
-  news2:
-
-- title: "General framework for cosmological dark matter bounds using  N -body simulations"
+# 2007.13751
+- title: "General framework for cosmological dark matter bounds using  N-body simulations"
   image: validation.png
   description: We present a general framework for obtaining robust bounds on the nature of dark matter using cosmological  N -body simulations and Lyman-alpha forest data. We construct an emulator of hydrodynamical simulations, which is a flexible, accurate and computationally-cheap model for predicting the response of the Lyman-alpha forest flux power spectrum to different dark matter models, the state of the intergalactic medium (IGM) and the primordial power spectrum.
   authors: Keir K. Rogers and Hiranya V. Peiris
@@ -38,6 +10,7 @@
   highlight: 1
   news2:
 
+# 2007.12705
 - title: "Strong bound on canonical ultra-light axion dark matter from the Lyman-alpha forest"
   image: strong.png
   description: "We present a new bound on the ultra-light axion (ULA) dark matter mass ma, using the Lyman-alpha forest to look for suppressed cosmic structure growth: a 95% lower limit  <i>m</i><sub>a</sub> > 2×10<sup>−20</sup> eV."
@@ -48,6 +21,29 @@
   highlight: 1
   news2:
 
+# 2006.10415
+- title: "Axion helioscopes as solar magnetometers"
+  image: solarmagnetometers.png
+  description: Axion helioscopes search for solar axions and axionlike particles via inverse Primakoff conversion in strong laboratory magnets pointed at the Sun. Anticipating the detection of solar axions, we determine the potential for the planned next-generation helioscope, the International Axion Observatory (IAXO), to measure or constrain the solar magnetic field. To do this we consider a previously neglected component of the solar axion flux at sub-keV energies arising from the conversion of longitudinal plasmons.
+  authors: Ciaran A. J. O'Hare, Andrea Caputo, Alexander J. Millar, and Edoardo Vitagliano
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.043019
+    display:  Physical Review D, Volume 102, Issue 4, article id.043019
+  highlight: 1
+  news2:
+
+# 2006.06836
+- title: "Probing dark photons with plasma haloscopes"
+  image: sensitivity.png
+  description: "Dark photons (DPs) produced in the early Universe are well-motivated dark matter (DM) candidates. We show that the recently proposed tunable plasma haloscopes are particularly advantageous for DP searches. While in-medium effects suppress the DP signal in conventional searches, plasma haloscopes make use of metamaterials that enable resonant absorption of the DP by matching its mass to a tunable plasma frequency and thus enable efficient plasmon production."
+  authors: Graciela B. Gelmini, Alexander J. Millar, Volodymyr Takhistov, and Edoardo Vitagliano
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.043003
+    display: Physical Review D, Volume 102, Issue 4, article id.043003
+  highlight: 1
+  news2:
+
+# 2005.00078
 - title: "Revisiting longitudinal plasmon-axion conversion in external magnetic fields"
   image: dispersion.png
   description: In the presence of an external magnetic field, the axion and the photon mix. In particular, the dispersion relation of a longitudinal plasmon always crosses the dispersion relation of the axion (for small axion masses), thus leading to a resonant conversion. Using thermal field theory, we concisely derive the axion emission rate, applying it to astrophysical and laboratory scenarios.
@@ -58,6 +54,16 @@
   highlight: 1
   news2:
 
+# 1904.11872
+- title: "Tunable Axion Plasma Haloscopes"
+  image: efield.png
+  description: We propose a new strategy for searching for dark matter axions using tunable cryogenic plasmas. Unlike current experiments, which repair the mismatch between axion and photon masses by breaking translational invariance (cavity and dielectric haloscopes), a plasma haloscope enables resonant conversion by matching the axion mass to a plasma frequency.
+  authors: Matthew Lawson*, Alexander J. Millar*, Matteo Pancaldi, Edoardo Vitagliano, and Frank Wilczek
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.141802
+    display:  Phys. Rev. Lett. 123, 141802
+  highlight: 1
+  news2:
 
 
 
