@@ -1,3 +1,13 @@
+- title: "Axion helioscopes as solar magnetometers"
+  image: efield.png
+  description: Axion helioscopes search for solar axions and axionlike particles via inverse Primakoff conversion in strong laboratory magnets pointed at the Sun. Anticipating the detection of solar axions, we determine the potential for the planned next-generation helioscope, the International Axion Observatory (IAXO), to measure or constrain the solar magnetic field. To do this we consider a previously neglected component of the solar axion flux at sub-keV energies arising from the conversion of longitudinal plasmons.
+  authors: Ciaran A. J. O'Hare, Andrea Caputo, Alexander J. Millar, and Edoardo Vitagliano
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.043019
+    display:  Physical Review D, Volume 102, Issue 4, article id.043019
+  highlight: 1
+  news2:
+
 - title: "Tunable Axion Plasma Haloscopes"
   image: efield.png
   description: We propose a new strategy for searching for dark matter axions using tunable cryogenic plasmas. Unlike current experiments, which repair the mismatch between axion and photon masses by breaking translational invariance (cavity and dielectric haloscopes), a plasma haloscope enables resonant conversion by matching the axion mass to a plasma frequency.
