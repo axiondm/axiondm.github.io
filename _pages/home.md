@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div align='center'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MNQGEyWufII" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/MNQGEyWufII" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <BR>
