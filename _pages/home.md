@@ -7,8 +7,8 @@ permalink: /
 ---
 
 
-<div class="iframe-container" >
-  <iframe src="https://www.youtube.com/embed/MNQGEyWufII" allowfullscreen></iframe>
+<div class="iframe-container" align='center'>
+  <iframe src="https://www.youtube.com/embed/MNQGEyWufII" width="100%" allowfullscreen></iframe>
 </div>
 
 <div align='center'>
