@@ -29,7 +29,7 @@ This project, funded by a <a href="http://www.okc.albanova.se/about-us/news/new-
 </p>
 
 <BR>
-<figure class="fourth" align=center>
+<figure class="fourth" align='center'>
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/svart_fyrkant_eng.png" style="width: 150px; padding: 10px">
   &nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 150px; padding: 10px">
