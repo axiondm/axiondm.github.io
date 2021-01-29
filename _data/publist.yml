@@ -3,7 +3,8 @@
 # 2011.05377
 - title: "Transient Radio Signatures from Neutron Star Encounters with QCD Axion Miniclusters"
   image: 2011.05377.png
-  description: Axion miniclusters are dense bound structures of dark matter axions that are predicted to form in the post-inflationary Peccei-Quinn symmetry breaking scenario. Here, we characterize the spatial distribution and properties of miniclusters in the Milky Way after undergoing tidal stellar interactions throughout their lifetime. We do this by performing an extensive set of Monte-Carlo simulations for iterative perturbations of individual miniclusters. We show that towards the centre of the Galaxy, many miniclusters are destroyed whereas many survive at the position of the Sun.
+  description: Axion miniclusters are dense bound structures of dark matter axions that are predicted to form in the post-inflationary Peccei-Quinn symmetry breaking scenario. Here, we characterize the spatial distribution and properties of miniclusters in the Milky Way after undergoing tidal stellar interactions throughout their lifetime. We do this by performing an extensive set of Monte-Carlo simulations for iterative perturbations of individual miniclusters.
+
   authors: Thomas D. P. Edwards, Bradley J. Kavanagh, Luca Visinelli, Christoph Weniger
   link:
     url: https://arxiv.org/abs/2011.05377
@@ -14,7 +15,7 @@
   # 2011.05378
 - title: "Stellar Disruption of Axion Miniclusters in the Milky Way"
   image: 2011.05378.png
-  description: The QCD axion is expected to form dense structures known as axion miniclusters if the Peccei-Quinn symmetry is broken after inflation. Miniclusters that have survived until today will interact with neutron stars (NSs) in the Milky Way to produce transient radio signals from axion-photon conversion in the NS magnetosphere. We quantify the properties of these encounters and find that they occur frequently; last between a day and a few months; are spatially clustered towards the Galactic centre; and can reach fluxes observable with current generation telescopes.
+  description: The QCD axion is expected to form dense structures known as axion miniclusters if the Peccei-Quinn symmetry is broken after inflation. Miniclusters that have survived until today will interact with neutron stars (NSs) in the Milky Way to produce transient radio signals from axion-photon conversion in the NS magnetosphere. We quantify the properties of these encounters and find that they occur frequently; last between a day and a few months; are spatially clustered towards the Galactic centre; and can reach fluxes observable with...
   authors: Bradley J. Kavanagh, Thomas D. P. Edwards, Luca Visinelli, Christoph Weniger
   link:
     url: https://arxiv.org/abs/2011.05378
