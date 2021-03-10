@@ -68,14 +68,16 @@ Keir Rogers
 
 Alexander Balatsky (Nordita)
 
-Matthias Geilhufe (Nordita)
+Benjo Fraser (Nordita)
 
-Ariel Goobar
+Matthias Geilhufe (Nordita)
 
 </div>
 
 <div class="col-sm-4 clearfix">
   <h4></h4>
+
+Ariel Goobar
 
 Bart Olsthoorn (Nordita)
 
