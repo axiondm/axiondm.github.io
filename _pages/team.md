@@ -36,6 +36,8 @@ permalink: /team/
 
   Alexander Millar
 
+  Andrea Gallo Rosso
+
   </div>
 
   <div class="col-sm-4 clearfix">
