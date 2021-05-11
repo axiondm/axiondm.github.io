@@ -11,7 +11,7 @@ permalink: /alpha/
 <div style="text-align: justify">
 We have recently settled on a logo for our experimental consortium, ALPHA.
 
-<img src="/images/respic/alpha.png" alt="" style="width: 150px; float: right; border: 10px; padding:10px" />
+<img src="/images/alpha.png" alt="" style="width: 150px; float: right; border: 10px; padding:10px" />
 
 Insert text about alpha. Lorem Ipsum.  Lorem Ipsum.  Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum.
 </div>
