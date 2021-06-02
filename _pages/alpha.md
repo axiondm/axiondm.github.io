@@ -9,7 +9,10 @@ permalink: /alpha/
 # ALPHA
 
 <div style="text-align: justify">
-We have recently settled on a logo for our experimental consortium, ALPHA (Axion Longitudinal Plasma HAloscope).
+
+Lawson et al. PRL (2019) demonstrates that careful tuning of the plasma frequency in a thin wire metamaterial can be used to serach for axions in the presence of a strong magnetic field. Our estimates suggest especially competitive sensitivies compared to more traditional axion dark matter haloscope experiments at high frequncies/masses.
+
+We are in the process of forming a consortium to develop the technologies and know-how required to deploy such a haloscope in a large magnetic field environment. Although the consortium is still being formed, we have already settled on a logo. The name of the consortium is ALPHA (Axion Longitudinal Plasma HAloscope).
 
 <img src="/images/alpha.png" alt="" style="width: 300px; float: left; border: 10px; padding:10px" />
 
